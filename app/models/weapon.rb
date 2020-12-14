@@ -1,7 +1,9 @@
 # frozen_string_literal: true
 
 class Weapon < ApplicationRecord
-  attr_accessor :name, :description, :power_base, :power_step, :level
+  validates :power_step, numericality: { equal_to: 100 }
+  validates :power_base, numericality: { greather_than_or_equal_to: 3000 }
+  validates :level, numericality: { greather_than: 1, less_than_or_equal_to: 99 }
   
   def power_base_points
     if level === 1 do
