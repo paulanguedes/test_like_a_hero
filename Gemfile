@@ -45,6 +45,7 @@ group :development, :test do
   gem 'ffaker'
   gem 'parser', '2.4.0.2'
   gem 'rspec-rails', '~> 3.8'
+  gem 'webdrivers'
 end
 
 group :development do
