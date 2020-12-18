@@ -1,24 +1,5 @@
-# README
+# Test like a hero
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+_Test like a hero_ é um repositório para execução das atividades propostas no **Minicurso de Testes para Ruby on Rails com RSpec**, do site [onebitcode](https://onebitcode.com/course/minicurso-de-testes/).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Alt Text](https://media.giphy.com/media/8Pm6rktDrwqKX19hM1/giphy.gif)
